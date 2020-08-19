@@ -16,7 +16,7 @@ import org.openide.util.Lookup;
 import org.openide.util.NbBundle.Messages;
 import org.openide.windows.TopComponent;
 
-@DataObject.Registration(iconBase = "org/clojure/filetype/clojure-icon.png", mimeType = "text/x-clojure")
+@DataObject.Registration(iconBase = "org/clojure/filetype/clojure-dark-blue-icon-16.png", mimeType = "text/x-clojure")
 public class ClojureDataObject extends MultiDataObject {
 
     public ClojureDataObject(FileObject pf, MultiFileLoader loader) throws DataObjectExistsException, IOException {

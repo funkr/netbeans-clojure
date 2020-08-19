@@ -34,7 +34,7 @@ public class ClojureProject implements Project {
     }
     class ClojureProjectInformation implements ProjectInformation {
         @StaticResource()
-        public static final String CUSTOMER_ICON = "org/clojure/filetype/clojure-icon.png";
+        public static final String CUSTOMER_ICON = "org/clojure/filetype/clojure-dark-blue-icon-16.png";
         @Override
         public Icon getIcon() {
             return new ImageIcon(ImageUtilities.loadImage(CUSTOMER_ICON));

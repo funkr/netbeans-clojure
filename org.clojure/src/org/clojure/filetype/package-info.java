@@ -5,7 +5,7 @@
 @TemplateRegistration(
         requireProject = false, 
         folder = "Other", 
-        iconBase = "org/clojure/filetype/clojure-icon.png",
+        iconBase = "org/clojure/filetype/clojure-dark-blue-icon-16.png",
         displayName = "#Clojuretemplate_displayName", 
         content = "Clojure.clj")
 @Messages(value = "Clojuretemplate_displayName=Clojure file")

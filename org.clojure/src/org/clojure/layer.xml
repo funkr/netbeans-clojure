@@ -7,7 +7,7 @@
                 <file name="capproject.properties" url="templates/cap-project-template.properties">
                     <attr name="template" boolvalue="true"/>
                     <attr name="displayName" stringvalue="Clojure"/>
-                    <attr name="iconBase" stringvalue="org/clojure/filetype/clojure-icon.png"/>
+                    <attr name="iconBase" stringvalue="org/clojure/filetype/clojure-dark-blue-icon-16.png"/>
                     <attr name="instantiatingIterator" methodvalue="org.netbeans.modules.projecttemplates.ClojureProjectWizardIterator.create"/>
                     <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/projecttemplates/clojureProject.html"/>
                     <attr boolvalue="true" name="requireProject"/>
@@ -16,7 +16,7 @@
                     org.netbeans.modules.projecttemplates.ClojureProjectWizardIterator
                     <attr boolvalue="true" name="template"/>
                     <attr name="displayName" stringvalue="Clojure"/>
-                    <attr name="iconBase" stringvalue="org/clojure/filetype/clojure-icon.png"/>
+                    <attr name="iconBase" stringvalue="org/clojure/filetype/clojure-dark-blue-icon-16.png"/>
                     <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/netbeans/modules/projecttemplates/clojureProject.html"/>
                     <attr name="instantiatingIterator" newvalue="org.netbeans.modules.projecttemplates.ClojureProjectWizardIterator"/>
                     <attr boolvalue="true" name="requireProject"/>

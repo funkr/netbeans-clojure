@@ -18,7 +18,7 @@ import org.openide.filesystems.FileUtil;
 
 //@TemplateRegistration(
 //        folder = "Project/Clojure",
-//        iconBase = "org/clojure/filetype/clojure-icon.png",
+//        iconBase = "org/clojure/filetype/clojure-dark-blue-icon-16.png",
 //        displayName = "Clojure",
 //        description = "clojureProject.html")
 //@Messages("ClojureProjectWizardIterator_displayName=Clojure")
