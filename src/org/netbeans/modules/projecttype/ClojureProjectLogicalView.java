@@ -13,7 +13,6 @@ import static org.netbeans.modules.projecttype.ClojureProject.ClojureProjectInfo
 import org.netbeans.spi.project.ActionProvider;
 import static org.netbeans.spi.project.ActionProvider.COMMAND_BUILD;
 import static org.netbeans.spi.project.ActionProvider.COMMAND_CLEAN;
-import static org.netbeans.spi.project.ActionProvider.COMMAND_PROFILE;
 import static org.netbeans.spi.project.ActionProvider.COMMAND_REBUILD;
 import static org.netbeans.spi.project.ActionProvider.COMMAND_RUN;
 import org.netbeans.spi.project.ui.LogicalViewProvider;

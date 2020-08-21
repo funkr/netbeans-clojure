@@ -2,9 +2,6 @@
 package org.clojure;
 
 import org.antlr.runtime.*;
-import java.util.Stack;
-import java.util.List;
-import java.util.ArrayList;
 
 @SuppressWarnings({"all", "warnings", "unchecked"})
 public class ClojureLexer extends Lexer {
