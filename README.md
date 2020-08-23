@@ -32,3 +32,13 @@ Took over. It works with Netbeans 12 and Java 11.
 2020-08-20
 
 Got a first Option Dialog going. It stores the path to Leinigen.
+
+2020-08-23
+
+ALl the collected links:
+
+https://blogs.oracle.com/geertjan/leiningen,-clojure,-and-netbeans-ide
+https://blogs.oracle.com/geertjan/parsing-the-command-line-to-enable-a-menu-item
+http://bits.netbeans.org/dev/javadoc/org-netbeans-modules-javahelp/index.html?overview-summary.html
+https://www.cnblogs.com/cuizhf/p/3505947.html
+http://wiki.netbeans.org/Splash_Screen_Beginner_Tutorial
